@@ -1,6 +1,6 @@
 Faculdade Uniesp
 Curso: Ciencências da Computação
-Disciplina Tópicos essenciais em Progamação
+Disciplina: Introdução a Progamação
 Nome: Guilherme Luiz
 
 Respostas lista de exercicios
@@ -8,4 +8,10 @@ Q01
 
 Q02
 
-Q03
+Q04
+
+Q05
+
+Q06
+
+Q10
